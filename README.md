@@ -30,7 +30,7 @@ A RAG-based PDF chatbot built with LangChain, Groq, FAISS, and Streamlit.
    pip install -r requirements.txt
 
 4. Add your Groq API key
-   # Create a .env file
+   **Create a .env file**
    GROQ_API_KEY=your_key_here
 
 5. Run the app
