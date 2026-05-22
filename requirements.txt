@@ -1,0 +1,21 @@
+# fastapi
+# uvicorn
+# langchain
+# langchain-community
+# langchain-groq
+# chromadb
+# pypdf
+# python-multipart
+# sentence-transformers
+# python-dotenv
+
+
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+faiss-cpu
+pypdf
+python-dotenv
+sentence-transformers
